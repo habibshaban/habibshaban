@@ -42,7 +42,7 @@ _A deep dive into cognitive biases, decision-making, and human psychology._
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=habibshaban&show_icons=true&theme=default)](https://github.com/habibshaban)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habibshaban&layout=compact&theme=default)](https://github.com/habibshaban)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=habibshaban&theme=default)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=habibshaban&theme=default)](https://git.io/streak-stats)
 
 ## 📬 Connect with Me
 
